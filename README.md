@@ -8,9 +8,11 @@
 
 
 - I happen to know <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> too.
-- 🌱 I’m currently learning:  <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+- 🌱 I’m currently learning:  
+- <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 - 👔 I’m looking to collaborate on Enterprise projects
-- 📞 How to reach me: 
+- 📞 How to reach me:
+ 
 [<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/williamscaramuzzi/)  [<img src='https://cdn.worldvectorlogo.com/logos/facebook-3.svg' alt='facebook' height='40'>](https://www.facebook.com/williamscaramuzzi)  [<img src='https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg' alt='instagram' height='40'>](https://www.instagram.com/williamscaramuzzi/) [<img src='https://cdn.worldvectorlogo.com/logos/upwork-1.svg' alt='upwork' height='40'>](https://www.upwork.com/freelancers/~0127f484378baef6f2)
 -------------------
 ## Some projects:
