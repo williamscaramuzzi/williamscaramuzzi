@@ -5,8 +5,7 @@
 - 👀 I’m interested in Web App Development using NodeJS, Express, Typescript, MySQL Database, TypeORM, Sequelize, PassportJS, ReactJS, JWT Auth and Sessions Auth.
 - 🌱 I’m currently learning Go lang, Svelte, and a little bit of Flutter.
 - 💞️ I’m looking to collaborate on Enterprise projects
-- 📫 How to reach me in Upwork: https://www.upwork.com/o/profiles/users/~0127f484378baef6f2/?s=1110580755107926016
-- :telephone_receiver: My LinkedIn profile: https://www.linkedin.com/in/williamscaramuzzi/
+- 📫 How to reach me in Upwork: https://www.upwork.com/freelancers/~0127f484378baef6f2
 
 ------------------
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/williamscaramuzzi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/williamscaramuzzi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/williamscaramuzzi/)  
