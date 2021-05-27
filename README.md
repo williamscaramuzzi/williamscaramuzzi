@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @williamscaramuzzi, a Police Officer :cop: (full-time) who wants to work as a Developer (part-time)
+#👋 Hi, I’m @williamscaramuzzi, a Police Officer :cop: (full-time) who wants to work as a Developer (part-time)
 - 👀 I’m interested in Web App Development using NodeJS, Express, Typescript, MySQL Database, TypeORM, Sequelize, PassportJS, ReactJS, JWT Auth and Sessions Auth.
 - 🌱 I’m currently learning Go lang, Svelte, and a little bit of Flutter.
 - 💞️ I’m looking to collaborate on Enterprise projects
