@@ -1,6 +1,5 @@
  # @williamscaramuzzi Github Page!
  ----------------
-<<<<<<< HEAD
  ## Police Officer 👮🏼‍♂️ (full-time) and a Developer 💻(part-time)
  ----------------
 I’m interested in App Development using: 
