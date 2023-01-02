@@ -3,11 +3,10 @@
  ## Police Officer 👮🏼‍♂️ (full-time) and a Developer 💻(part-time)
  ----------------
 I’m interested in App Development using: 
-- TypeScript, Javascript for Web
+- React, TypeScript, Javascript for Web and Node for back-end
 - Flutter, React Native for mobile
-- I happen to know Java from college <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-- My personal interests are: Dart, Flutter, Go, MySQL, TypeORM
-- I'm currently learning Svelte, GraphQL and Prisma
+- I happen to know Java from college 
+- My personal interests are: Dart, Flutter, Go, MySQL, React, TauriJS
 - 📞 How to reach me: 
 [<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/williamscaramuzzi/)  [<img src='https://cdn.worldvectorlogo.com/logos/facebook-3.svg' alt='facebook' height='40'>](https://www.facebook.com/williamscaramuzzi)  [<img src='https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg' alt='instagram' height='40'>](https://www.instagram.com/williamscaramuzzi/) [<img src='https://cdn.worldvectorlogo.com/logos/upwork-1.svg' alt='upwork' height='40'>](https://www.upwork.com/freelancers/~0127f484378baef6f2)
 -------------------
