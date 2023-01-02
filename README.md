@@ -1,11 +1,12 @@
  # @williamscaramuzzi Github Page!
  ----------------
  ## Police Officer 👮🏼‍♂️ (full-time) and developer 💻(part-time)
+ ### I have bachelor degree in: Public Safety, Lawschool and Information Systems
  ----------------
 I’m interested in App Development using: 
 - React, TypeScript, Javascript for Web and Node for back-end
 - Flutter, React Native for mobile
-- I happen to know Java from college 
+- I learnt Java from college
 - My personal interests are: Dart, Flutter, Go, MySQL, React, TauriJS
 -------------------
 ## Some projects:
