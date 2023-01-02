@@ -1,14 +1,12 @@
  # @williamscaramuzzi Github Page!
  ----------------
- ## Police Officer 👮🏼‍♂️ (full-time) and a Developer 💻(part-time)
+ ## Police Officer 👮🏼‍♂️ (full-time) and developer 💻(part-time)
  ----------------
 I’m interested in App Development using: 
 - React, TypeScript, Javascript for Web and Node for back-end
 - Flutter, React Native for mobile
 - I happen to know Java from college 
 - My personal interests are: Dart, Flutter, Go, MySQL, React, TauriJS
-- 📞 How to reach me: 
-[<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/williamscaramuzzi/)  [<img src='https://cdn.worldvectorlogo.com/logos/facebook-3.svg' alt='facebook' height='40'>](https://www.facebook.com/williamscaramuzzi)  [<img src='https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg' alt='instagram' height='40'>](https://www.instagram.com/williamscaramuzzi/) [<img src='https://cdn.worldvectorlogo.com/logos/upwork-1.svg' alt='upwork' height='40'>](https://www.upwork.com/freelancers/~0127f484378baef6f2)
 -------------------
 ## Some projects:
 
